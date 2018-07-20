@@ -1,0 +1,1 @@
+reg query "HKCU\environment"

@@ -1,0 +1,10 @@
+[History]
+1=#P0#=mb	#P1#=GetProcessNameByPID	#P2#=Project1/Form1/GetProcessNameByPID	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160706210926	#P7#=-2147483640	#P8#=-1	.
+2=#P0#=mb	#P1#=ConvertDosDeviceToDriveName	#P2#=Project1/Form1/ConvertDosDeviceToDriveName	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160706210442	#P7#=0	#P8#=22	.
+3=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150103184336	#P7#=0	#P8#=12	.
+4=#P0#=mb	#P1#=GetPIDbyWindowHandle	#P2#=Project1/Form1/GetPIDbyWindowHandle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20150103184236	#P7#=-2147483640	#P8#=-1	.
+5=#P0#=mb	#P1#=Timer1_Timer	#P2#=Project1/Form1/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150103184213	#P7#=0	#P8#=8	.
+6=#P0#=mb	#P1#=GetClassNameByHandle	#P2#=Project1/Form1/GetClassNameByHandle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20150103184023	#P7#=-2147483640	#P8#=0	.
+7=#P0#=mb	#P1#=GetConsoleText	#P2#=Project1/Form1/GetConsoleText	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20141122174821	#P7#=-2147483640	#P8#=0	.
+8=#P0#=mb	#P1#=RemoveCross	#P2#=Project1/Form1/RemoveCross	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20141122174742	#P7#=-2147483640	#P8#=-1	.
+9=#P0#=mb	#P1#=GetTitle	#P2#=Project1/Form1/GetTitle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20141122174740	#P7#=-2147483640	#P8#=2	.

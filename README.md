@@ -1,2 +1,22 @@
-# Console-Window-Interceptor
-Interception of the output of 3d-party console window
+# Console Window Interceptor
+
+## Сфера применения
+
+Автоматически подключается к любому всплывающему консольному окну и не дает его закрыть по завершению работы (exit).
+Перехватывает текст и выводит его в окне формы.
+
+Будет полезен для получения текста консольных приложений, которые нельзя запустить через cmd /c.
+
+**Примечание 1:** если целевое приложение запущено с повышенными привилегими, для его захвата перехватчик нужно также запустить с повышенными привилегиями.
+
+**Примечание 2:** если перехватчик не успевает подключиться к окну, выставьте частоту опроса на 1 мс.
+
+**Пример:** [Перехват ошибки в выводе команды AVZ ExecuteFile.](http://safezone.cc/threads/kak-diagnostirovat-problemu-ili-oshibki-v-sintaksise-kogda-bat-fajl-vyletaet.22870/#post-192422)
+
+Состав: EXE + VB6 src.
+
+![cintercept](https://user-images.githubusercontent.com/19956568/42977686-479a9276-8bd1-11e8-9bb8-d4d5a22b64ba.png)
+
+Автор: Dragokas
+
+Спасибо [The trick](http://safezone.cc/members/the-trick.9181/) за пример работы с буфером консоли.
